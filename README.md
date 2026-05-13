@@ -30,18 +30,23 @@ An AI-powered academic assistant built using Streamlit, LangChain, ChromaDB, Hug
 ```bash
 pip install -r requirements.txt
 streamlit run app/main.py
+```
 
 ---
 
- 📸 Screenshots
+## 📸 Screenshots
+
 ![App Screenshot](assets/app.png)
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
+
+```text
 ai-academic-support-assistant/
 │
 ├── app/                  # Streamlit application files
+├── assets/               # Project screenshots
 ├── data/                 # Dataset files
 ├── documents/            # Uploaded PDF study materials
 ├── models/               # Saved ML models and vector DB
@@ -50,7 +55,9 @@ ai-academic-support-assistant/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ---
 
-👩‍💻 Developed by Samruddhi Bhagwat
+👩‍💻 Developed by 
+Samruddhi Bhagwat
