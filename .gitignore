@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+models/chroma_db/
+models/*.pth
+models/*.pkl
+.DS_Store
